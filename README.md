@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomin12&exclude_repo=bomin12.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=bomin12&theme=tokyonight&show_icons=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bomin12&theme=tokyonight&show_icons=true" width="43%" />
 </a>
 </div>
 
