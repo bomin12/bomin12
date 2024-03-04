@@ -19,6 +19,7 @@
     </a>
 
 <h5>
+<div align=center> 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomin12&exclude_repo=bomin12.github.io&layout=compact&theme=tokyonight" />
 </a>
