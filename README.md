@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B3861&lines=Welcome+bomin's+Github!&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <div align=center>
-<h5>안녕하세요! 게임개발자가 되기위해</h5>
-<h5>열심히 공부중인 고등학생입니다!😁</h5>
+<h5>안녕하세요! 게임개발자가 되기위해<h5>
+열심히 공부중인 고등학생입니다!😁
 </div>
 
 <div align=center> 
