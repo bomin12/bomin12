@@ -15,12 +15,13 @@
     </a>
     <a href="https://www.instagram.com/bomin_0_111">
         <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
 
 
 <div align=center> 
 <a href="s">
+  <h5>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bomin12&exclude_repo=bomin12.github.io&layout=compact&theme=tokyonight" />
 </a>
 </div>
@@ -28,12 +29,14 @@
 
 <div align=center> 
 <a href="s">
+  <h5>
   <img src="https://github-readme-stats.vercel.app/api?username=bomin12&theme=tokyonight&show_icons=true" width="50%" />
 </a>
 </div>
 <br/>
 
 <div align=center> 
+<h5>
 <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
