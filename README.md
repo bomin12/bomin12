@@ -4,13 +4,20 @@
 
 <div align=center>
 <h5>안녕하세요! 게임개발자가 되기위해<h5>
-열심히 공부중인 고등학생입니다!😁
+열심히 공부중인 고등학생입니다!😊
 </div>
 
-<div align=center> 
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> pateo0516@gmail.com
-</div>
-<br/>
+  ## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://www.instagram.com/bomin_0_111">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+
 
 <div align=center> 
 <a href="s">
