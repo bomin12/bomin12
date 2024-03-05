@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B3861&lines=Welcome+bomin12's+Github!&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <div align=center>
-<h5>안녕하세요! 게임개발자가 되기위해<h5>
+<h5>안녕하세요! 게임개발자가 되기위해
 열심히 공부중인 고등학생입니다!😊
 </div>
 
@@ -32,6 +32,8 @@
 <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bomin12&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
